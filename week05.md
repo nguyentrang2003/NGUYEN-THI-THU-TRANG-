@@ -22,3 +22,4 @@
 
 ## 4. 구글 문서 공유 링크
 https://docs.google.com/document/d/1DBv3cvFnQxWUb_QE2Mj-jT8667dhY5QB7bWMNdYf05A/edit?usp=sharing
+실습 완료 일시:2026-10-01
